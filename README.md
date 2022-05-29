@@ -31,4 +31,4 @@ Recorded and mixed by Fedor Ivaschenko between 2018 and 2019 on ESKI studio in M
 
 Mastered by wikisound.org
 
-Released on https://lewisacids.bandcamp.com/album/queen-of-diamonds and some random streaming services May 24, 2019
+Released on https://lewisacids.bandcamp.com/album/queen-of-diamonds and some random streaming services on May 24, 2019
