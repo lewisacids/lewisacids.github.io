@@ -1,0 +1,13 @@
+markdown_extensions:
+  - meta
+site_name: Queen of Diamonds
+theme:
+  name: material
+  palette:
+    primary: white
+  logo: images/lewisacids_logo_small.jpg
+
+extra:
+  homepage: https://lewisacids.github.io/queen-of-diamonds
+extra_css:
+  - css/extra.css
