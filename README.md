@@ -10,17 +10,17 @@ Lineup:
 
 Tracklist:
 	
-1. Perfect Crystal Overture 00:54
-2. Ace of Acid 03:54
-3. Love over Ethernet 03:05
-4. I See You Well [Visible Mix] 03:39
-5. Hips 03:46
-6. SSD 03:09
-7. Inorganic 03:14
-8. Wipe Me Out 03:44
-9. Under Wing 03:57
-10. The Sense 03:27
-11. Liquid State Drive 02:45
+1. Perfect Crystal Overture
+2. Ace of Acid
+3. Love over Ethernet
+4. I See You Well [Visible Mix]
+5. Hips
+6. SSD
+7. Inorganic
+8. Wipe Me Out
+9. Under Wing
+10. The Sense
+11. Liquid State Drive
 
 Music and lyrics by Fedor Ivaschenko, arranged by Lewis Acids
 
